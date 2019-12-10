@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trinity Grace Conference</title>
-    <link>https://trinitygraceconference.github.io/</link>
+    <link>https://trinitygraceconference.com/</link>
     <description>Recent content on Trinity Grace Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://trinitygraceconference.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://trinitygraceconference.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
