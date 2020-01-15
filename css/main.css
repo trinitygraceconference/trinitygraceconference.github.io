@@ -333,7 +333,7 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  padding: 100px 0 100px;
+  padding: 100px 0 40px;
   text-align: center;
 }
 .logo-name {
@@ -342,9 +342,15 @@ nav {
   letter-spacing: -0.04em;
 }
 .tagline {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
   font-size: 2em;
   letter-spacing: -0.02em;
+}
+h3.tagline {
+  margin-bottom: 30px;
+  font-size: 1.8em;
+  letter-spacing: -0.02em;
+  font-style: italic;
 }
 .call-action-area .price {
   font-size: 4em;
