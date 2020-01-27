@@ -595,7 +595,7 @@ h3.tagline {
     margin-bottom: 50px;
   }
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   /* nav */
   nav {
     display: none;
@@ -890,7 +890,7 @@ nav {
     /*background-size: auto 100%;*/
   }
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   /* speakers */
   .speaker-photo .photo {
     box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.07);
