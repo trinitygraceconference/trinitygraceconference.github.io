@@ -790,6 +790,19 @@ nav {
   border-radius: 4px;
   height: 300px;
 }
+p {
+    text-align: justify; /**/
+}
+.location span {/**/
+    font-weight: bold;
+    float: left;
+    clear: left;
+}
+.location p[itemprop="address"] {/**/
+    position: relative;
+    clear: both;
+    margin-bottom: 8em;
+}
 /* =============================================================================
    SPEAKER
    ========================================================================== */
