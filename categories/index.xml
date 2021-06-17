@@ -4,10 +4,6 @@
     <title>Categories on Trinity Grace Conference</title>
     <link>https://trinitygraceconference.com/categories/</link>
     <description>Recent content in Categories on Trinity Grace Conference</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://trinitygraceconference.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://trinitygraceconference.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
